@@ -1,4 +1,4 @@
-Content App
+EM Dashboard
 
 ## Getting Started
 
